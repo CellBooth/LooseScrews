@@ -6,7 +6,7 @@ EGR 3380 - Engineering Design I Transfer Subsystem. This repository documents th
 Design, build, and test a system comprised of three interoperable subsystems for 
 transporting cases of product into a work area, transporting pallets through the work area, and loading 
 cases of product onto pallets for shipping.
-See [video](https://photos.app.goo.gl/zRGr7y4jFxbNgpk97).
+See [video](https://photos.app.goo.gl/zRGr7y4jFxbNgpk97) and [compliance test](https://photos.app.goo.gl/28Aey4GzPfUhF6TU7).
 
 ### 5. Transfer Subsystem:
 5.1. The Transfer Subsystem shall transfer Cases from the Case Export Positions to a Pallet 
